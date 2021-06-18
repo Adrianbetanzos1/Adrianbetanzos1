@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adrianbetanzos1
-- 👀 I’m interested in learning more about developing, more programming lenguages and all about Software Engineering. 
+- 👀 I’m interested in learning more about developing, more programming languages and all about Software Engineering. 
 - 🌱 I’m currently learning how to develop some softwares for a local business in my city Coatzacoalcos, Veracruz.
 - 💞️ I’m looking to collaborate on everything that help me to get experience and be a better developer.
 - 📫 How to reach me ... with my personal Outlook account that is adrianbetanzos15@hotmail.com
